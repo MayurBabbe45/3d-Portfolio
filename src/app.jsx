@@ -11,18 +11,17 @@ import Footer from "./sections/Footer"
 const App = () => {
   return (
     <>
-        <NavBar/>
-        <Hero />
-        <ShowcaseSection />
-        <LogoSection />
-        <FeatureCard />
-        <ExperienceSection />
-        <TechStack />
-        <Contact />
-        <Footer />
+      <NavBar/>
+      <Hero />
+      <ShowcaseSection />
+      <LogoSection />
+      <FeatureCard />
+      <ExperienceSection />
+      <TechStack />
+      <Contact />
+      <Footer />
     </>
   )
-
-  }
+}
 
 export default App
