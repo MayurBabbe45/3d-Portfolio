@@ -1,0 +1,13 @@
+1) installed vite latest version
+2) Cleaned the pre written code of vite
+3) installed gsap to create stunning animation smoothly 
+4) installed three js - Three.js is an open-source, cross-browser JavaScript library for creating and displaying animated 3D graphics in a web browser using WebGL. It provides a high-level API that allows developers to build GPU-accelerated 3D experiences without needing to code directly in WebGL, which is a much lower-level graphics API
+5) npm install gsap @gsap/react three @react-three/fiber @react-three/drei @react-three/postprocessing
+6) installed Tailwing css
+7) Written some classes for prestyled things like wrapper button classes or colors.
+8) Created hero section with dynamic button components which can be used after wards many time by just passing the txt as a prop. 
+9) created HeroExperience.jsx component file in the HeroModels folder.
+10)Got the code for the model 
+11)adjusted the lighting
+12)created teh counter section where the status is shown for this purpose react counter is used
+13)
