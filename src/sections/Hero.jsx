@@ -54,10 +54,24 @@ const Hero = () => {
                         Hi, I'm Mayur, a developer based in India with a passion for code.
                     </p>
                     <Button
-                    className="md:w-80 md:h-16 w-60 h-12 "
-                    id="button"
-                    text="See my Work"
+                      className="md:w-80 md:h-16 w-60 h-12 "
+                      id="work"
+                      text="See my Work"
+                      link="/#work"
                     />
+                    <a
+                      href="/Mayur%20Babbe%20Resume.pdf"
+                      download
+                      className="md:w-64 md:h-9 w-50 h-7 mt-2 cta-Wrapper"
+                    >
+                      <div className="cta-button group">
+                        <div className="bg-circle" />
+                        <p className="text">Resume</p>
+                        <div className="arrow-wrapper">
+                          <img src="/images/arrow-down.svg" alt="arrow" className="" />
+                        </div>
+                      </div>
+                    </a>
             </div>
         </header>
 
